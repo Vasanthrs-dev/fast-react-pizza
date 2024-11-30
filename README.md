@@ -32,7 +32,7 @@ The app uses the following state management domains:
 
 ## 🌐 Live Demo
 
-[View the live app here!](#) <!-- Replace # with the live app link -->
+[View the live app here!](https://fast-react-pizza-rs.netlify.app/) <!-- Replace # with the live app link -->
 
 ## 📸 Demo Images
 ![1e](https://github.com/user-attachments/assets/b3d7cc0e-6727-4c1c-b6d8-88e9334e43b8)
